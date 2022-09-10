@@ -60,7 +60,7 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 ### FIGURE-03 CIRCUIT DIAGRAM
 
-![output](02.png)
+![02](https://user-images.githubusercontent.com/94226297/189469761-9295d853-cee3-4449-81dc-a7a54ebcabb8.png)
 
 ### PROCEDURE:
 1.	Connect the circuit as per the circuit diagram 
@@ -105,7 +105,7 @@ void loop()
 } 
  ```
 ### TABLE -02 standard deviation table 
-![image](H.jpeg)
+![1](https://user-images.githubusercontent.com/94226297/189469765-e8a3c848-0061-42ec-82f8-a8054f4452ac.jpeg)
 
 ### Population Standard Deviation
 ```
